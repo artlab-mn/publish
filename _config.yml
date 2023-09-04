@@ -2,3 +2,4 @@
 encoding: UTF-8
 title: null
 name: Artlab docs
+markdown: kramdown
